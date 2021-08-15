@@ -3,6 +3,7 @@
 <h3 align="center">A computer science enthusiast on a never ending path to leam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalvaibhav31244&label=Profile%20views&color=0e75b6&style=flat" alt="vishalvaibhav31244" /> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently working on **Android App Development.**
 
